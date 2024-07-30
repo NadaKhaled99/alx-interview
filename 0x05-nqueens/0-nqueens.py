@@ -37,7 +37,7 @@ def backtrack(r, n, cols, pos, neg, board):
 
 def nqueens(n):
     """
-    The N queens puzzle is the challenge
+    N queens puzzle is the challenge
     """
     cols = set()
     pos_diag = set()
